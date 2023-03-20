@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vasallo94
-- 👀 I’m interested in Python, astrophysics, physics, data sience
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Physicist and astronomer by training, data analysis student by passion. I'm fascinated by the mysteries of the universe and love to explore them through data. When I'm not crunching numbers, I'm indulging my creative side as a poet and photographer. Catch me gazing at the stars or lost in thought behind the camera lens.
+- 🌱 I’m currently learning Data Analysis and Data Science.
 
 <!---
 Vasallo94/Vasallo94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
