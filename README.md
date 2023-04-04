@@ -15,7 +15,7 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100.svg?&style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white)
 
-[![Mathematica](https://img.shields.io/badge/Mathematica-12.3-orange)](https://www.wolfram.com/mathematica/)
  <br><br>
 
