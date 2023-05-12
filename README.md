@@ -17,5 +17,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100.svg?&style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white)
 
+
+
+![Snake animation](https://github.com/Vasallo94/Vasallo94/blob/output/github-contribution-grid-snake.svg)
  <br><br>
 
