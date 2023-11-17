@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vasallo94
 - 👀 Physicist and astronomer by training, data analysis student by passion. I'm fascinated by the secrets of the universe and love to explore them through data. When I'm not crunching numbers, I'm indulging my creative side as a poet and photographer.
 
-### 💻 Data analyst & Data Scientist <br><br>
+### 💻 Data analyst & Data Scientist | AI Consultor at IBM 🐝<br><br>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
