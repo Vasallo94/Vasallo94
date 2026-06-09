@@ -14,6 +14,7 @@ Previously AI Consultant at IBM.
 - **[obsidian-mcp-server](https://github.com/Vasallo94/obsidian-mcp-server)** — MCP server that connects AI assistants to your Obsidian vault
 - **[Clapper](https://github.com/Vasallo94/Clapper)** — Agentic video-generation platform: a multi-agent LangGraph pipeline that turns a prompt into a rendered MP4
 - **[Solvay](https://github.com/Vasallo94/Solvay)** — Multi-agent physics problem solver (LangGraph / deepagents) with sandboxed execution and dimensional analysis
+- **[nadir-astro](https://github.com/Vasallo94/nadir-astro)** — Astronomy MCP server that plans observing sessions: target framing, observability windows, and live solar activity for astrophotographers
 - **[afp-protocol](https://github.com/Vasallo94/afp-protocol)** — Agent Feedback Protocol: the return path MCP lacks, for agents to report tool friction back to maintainers
 
 **Apps**
