@@ -1,6 +1,6 @@
 ## Hi, I'm Enrique
 
-**AI Strategic Project Leader** at Línea Directa Aseguradora | Physicist
+**AI Project Leader** at Línea Directa Aseguradora | Physicist
 
 I lead AI projects at one of Spain's largest insurance companies — chatbots, call analysis platforms, claims summarization, and GenAI tools.
 
